@@ -175,3 +175,4 @@ cython_debug/
 !.vscode/.gitkeep
 research/*
 !research/.gitkeep
+src/models/diffusion_models/
